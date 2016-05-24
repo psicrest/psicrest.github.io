@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "psicrest",
-    "repositoryName": "psicrest.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "uno-zen"
-  }
-}
+{"meta":{"username":"psicrest","repositoryName":"psicrest.github.io","branch":"master"},"site":{"title":"My great shenanigans","description":"Act like you belong.","logo":"http://memesvault.com/wp-content/uploads/I-Have-No-Idea-What-Im-Doing-Dog-02.jpg","cover":"http://i.makeagif.com/media/8-24-2015/4TBIPO.gif","postsPerPage":"5","url":"https://psicrest.github.io"},"socialnetwork":{},"theme":{"name":"uno-zen","url":"//psicrest.github.io/themes/uno-zen"}}
